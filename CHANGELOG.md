@@ -1,3 +1,7 @@
+##### 1.0.2 (2021-01-13)
+
+- Improved RAW and TIFF format support by making the the signatures more unique
+
 ##### 1.0.1 (2018-02-01)
 
 - Improved JPEG format support
